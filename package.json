@@ -1,0 +1,17 @@
+{
+  "name": "express-survey-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+   "build": "tsc",
+   "build-watch": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

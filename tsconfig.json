@@ -1,0 +1,17 @@
+{
+   "compilerOptions": {
+     "target": "es5",
+     "module": "commonjs",
+     "lib": ["dom", "esnext"],
+     "noImplicitReturns": true,
+     "noImplicitThis": true,
+     "noImplicitAny": true,
+     "noUnusedLocals": true,
+     "strictNullChecks": true,
+     "esModuleInterop": true,
+     "outDir": "dist",
+     "sourceMap": true,
+     "strict": true
+   },
+   "include": ["src"]
+ }
