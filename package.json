@@ -6,10 +6,12 @@
   "dependencies": {
     "typescript": "^4.6.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@types/node": "^17.0.23"
+  },
   "scripts": {
-   "build": "tsc",
-   "build-watch": "tsc --watch"
+    "build": "tsc",
+    "build-watch": "tsc --watch"
   },
   "keywords": [],
   "author": "",
